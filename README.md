@@ -1,5 +1,8 @@
 # IoTDynamicDashboard
 
+
+#Adding Steps for Installation
+
 ## Steps to Deploy Project 
 'npm install`
 
