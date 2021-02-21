@@ -10,3 +10,7 @@
 
 
 React, Springboot Dashboard of Global IoT Data
+
+# adding one more steps from vscode
+
+`ng serve`
